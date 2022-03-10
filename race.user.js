@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Nitro Typer
-// @namespace    https://www.theprabhakar.in/
+// @name         saylorkk11
+// @namespace    https://www.theprabhakar.in//saylorkk11
 // @version      5.4.7
 // @description  Browser counterpart of Nitro Typer 5
 // @author       Prabhakar Rai
